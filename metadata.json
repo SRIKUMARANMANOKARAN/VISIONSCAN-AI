@@ -1,0 +1,6 @@
+{
+  "name": "VisionScan AI",
+  "description": "Mobile-based smart preliminary eye screening system with visual acuity, color vision, camera-based blink & eye movement tracking, and Gemini AI reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
